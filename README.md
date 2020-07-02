@@ -9,14 +9,14 @@ React Webpack Babel setup
 
 ## Usage
 
-`npm install` 
+### `npm install` 
 
 Installs all the necessary dependencies for the project.
 
-`npm start`
+### `npm start`
 
 Runs the app in development mode at http://localhost:8080/.
 
-`npm run build`
+### `npm run build`
 
 Builds the app for production to the `dist` folder.
